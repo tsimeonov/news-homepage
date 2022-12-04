@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://tsimeonov.github.io/Intro-Section-with-Dropdown-Navigation/)
+- Live Site URL: https://tsimeonov.github.io/news-homepage/
 
 ### Built with
 
